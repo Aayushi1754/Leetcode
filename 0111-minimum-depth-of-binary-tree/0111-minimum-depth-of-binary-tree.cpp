@@ -18,10 +18,10 @@ public:
         if(root->left==NULL && root->right==NULL)
         return 1;
         if(root->left)
-         leftheight=1+minDepth(root->left);
+        leftheight=minDepth(root->left);
         if(root->right)
-         rightheight=1+minDepth(root->right);
-        return min(leftheight,rightheight);
+        rightheight=minDepth(root->right);
+        return 1+min(leftheight,rightheight);
         
     }
 };
