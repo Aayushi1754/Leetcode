@@ -63,8 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Aayushi1754/Leetcode/tree/master/0994-rotting-oranges) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Aayushi1754/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Aayushi1754/Leetcode/tree/master/0994-rotting-oranges) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Aayushi1754/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+## Simulation
+|  |
+| ------- |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Aayushi1754/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
