@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi1754/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aayushi1754/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aayushi1754/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aayushi1754/Leetcode/tree/master/0733-flood-fill) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi1754/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aayushi1754/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
