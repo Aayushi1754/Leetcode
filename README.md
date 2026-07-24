@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aayushi1754/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aayushi1754/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aayushi1754/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aayushi1754/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Aayushi1754/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aayushi1754/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aayushi1754/Leetcode/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Aayushi1754/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aayushi1754/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aayushi1754/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aayushi1754/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aayushi1754/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aayushi1754/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aayushi1754/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Aayushi1754/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Aayushi1754/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
